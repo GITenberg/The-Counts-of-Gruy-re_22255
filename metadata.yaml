@@ -1,0 +1,31 @@
+_repo: The-Counts-of-Gruy-re_22255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Koven, Anna
+    aliases:
+    - De Koven, Reginald, Mrs.
+    - DeKoven, Anna Farwell
+    - Koven, Anna De
+    birthdate: 1860
+    gutenberg_agent_id: '25213'
+    url: http://www.gutenberg.org/2009/agents/25213
+description: ''
+gutenberg_issued: '2007-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22255'
+  lccn: '17000093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DQ'
+- !lcsh 'Gruyère (Switzerland) -- History'
+- !lcsh 'Gruyère, Counts of'
+title: The Counts of Gruyère
+url: http://www.gutenberg.org/ebooks/22255
